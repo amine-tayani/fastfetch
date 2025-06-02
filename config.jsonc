@@ -17,43 +17,41 @@
       "type": "custom",
       "format": "┌──────────────────────────────────────────┐"
     },
-
     // 🖥️ System Information
     {
       "type": "os",
-      "key": "   OS",
+      "key": "   OS",
       "keyColor": "red"
     },
     {
       "type": "kernel",
-      "key": "   Kernel",
+      "key": "   Kernel",
       "keyColor": "red"
     },
     {
       "type": "packages",
-      "key": "  󰏖 Packages",
+      "key": "   Packages",
       "keyColor": "green"
     },
     {
       "type": "wm",
-      "key": "   WM",
+      "key": "   WM",
       "keyColor": "green"
     },
     {
       "type": "terminal",
-      "key": "   Terminal",
+      "key": "   Terminal",
       "keyColor": "cyan"
     },
     {
       "type": "TerminalFont",
-      "key": "   Font",
+      "key": "   Font",
       "keyColor": "cyan"
     },
     {
       "type": "custom",
       "format": "└──────────────────────────────────────────┘"
     },
-
     // ⚙️ Performance & Runtime
     {
       "type": "custom",
@@ -62,40 +60,39 @@
     {
       "type": "cpu",
       "format": "{1}",
-      "key": "   CPU",
+      "key": "   CPU",
       "keyColor": "red"
     },
     {
       "type": "uptime",
-      "key": "  󰹑 Uptime",
+      "key": "   Uptime",
       "keyColor": "red"
     },
     {
       "type": "Processes",
-      "key": "  󰍛 Processes",
+      "key": "   Processes",
       "format": "{1} running",
       "keyColor": "green"
     },
     {
       "type": "memory",
-      "key": "   Memory",
+      "key": "   Memory",
       "keyColor": "green"
     },
     {
       "type": "shell",
-      "key": "   Shell",
+      "key": "  Shell",
       "keyColor": "magenta"
     },
     {
       "type": "theme",
-      "key": "   Theme",
+      "key": "  Theme",
       "keyColor": "magenta"
     },
     {
       "type": "custom",
       "format": "└──────────────────────────────────────────┘"
     },
-
     // 🌈 Visuals
     "break",
     {
